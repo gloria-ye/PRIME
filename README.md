@@ -1,1 +1,1 @@
-# pt-outcomes
+# clinica-outcomes
