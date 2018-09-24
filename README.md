@@ -1,1 +1,1 @@
-# clinica-outcomes
+# clinical-outcomes
